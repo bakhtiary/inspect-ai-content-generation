@@ -8,7 +8,7 @@
 
 ```bash
 uv sync
-uv run jupyter notebook
+ANTHROPIC_API_KEY=your_key uv run jupyter notebook
 ```
 
 The result of the current run can be seen with:
