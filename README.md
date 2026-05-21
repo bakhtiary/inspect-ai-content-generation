@@ -14,7 +14,7 @@ uv run jupyter notebook
 The result of the current run can be seen with:
 
 ```bash
-inspect view --log-dir ./logs
+uv run inspect view --log-dir ./logs
 ```
 
 ## next steps:
